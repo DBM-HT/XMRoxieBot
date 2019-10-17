@@ -1,2 +1,4 @@
 # XMRoxieBot
-Is this an actual thing ree
+Daniel Burfield-Mills
+Alex-John Clark
+John Calder
