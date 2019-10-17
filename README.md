@@ -1,4 +1,4 @@
 # XMRoxieBot
-Daniel Burfield-Mills
-Alex-John Clark
+Daniel Burfield-Mills,
+Alex-John Clark,
 John Calder
